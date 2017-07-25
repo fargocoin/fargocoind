@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FargoCoin
+Comment=FargoCoin P2P Cryptocurrency
+Comment[fr]=FargoCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=FargoCoin, eşten eşe kriptografik sanal para birimi
+Exec=fargocoin-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/bitcoin;
+Categories=Office;Finance;
